@@ -3,7 +3,7 @@
     "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/avalanche/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/dai.jpg",
     "name": "Dai Stablecoin",
     "symbol": "DAI"
   },
@@ -27,7 +27,7 @@
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/avax.jpg",
     "name": "Wrapped AVAX",
     "symbol": "WAVAX"
   },
@@ -35,7 +35,7 @@
     "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
     "chainId": 43114,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/avalanche/0x50b7545627a5162F82A992c33b87aDc75187B218.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/wbtc.jpg",
     "name": "Wrapped BTC",
     "symbol": "WBTC"
   },
@@ -43,7 +43,7 @@
     "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
     "chainId": 43114,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/weth.jpg",
     "name": "Wrapped Ether",
     "symbol": "WETH"
   }

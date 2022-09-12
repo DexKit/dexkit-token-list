@@ -3,7 +3,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/dai.jpg",
     "name": "Dai Token",
     "symbol": "DAI"
   },
@@ -11,7 +11,7 @@
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/usdc.jpg",
     "name": "Binance-Peg USD Coin",
     "symbol": "USDC"
   },
@@ -19,7 +19,7 @@
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dexkit/logos/main/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
+    "logoURI": "https://raw.githubusercontent.com/dexkit/icons/master/token/usdt.jpg",
     "name": "Tether USD",
     "symbol": "USDT"
   },
