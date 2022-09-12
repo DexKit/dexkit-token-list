@@ -1,0 +1,14 @@
+{
+  "name": "dexkit-token-list",
+  "version": "0.0.1",
+  "description": "DexKit default token list",
+  "author": "JoaoCampos89",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "build": "rm -rf build && mkdir -p build && node internal/write.js > build/dexkit.tokenlist.json",
+    "prepublishOnly": "yarn test && yarn build",
+    "ci:version": "yarn version minor",
+    "ci:publish": "yarn publish --access public --tag latest"
+  }
+}
