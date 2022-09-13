@@ -5,7 +5,7 @@ const fantom = require("../tokens/fantom.json");
 const polygon = require("../tokens/polygon.json");
 const bsc = require("../tokens/bsc.json");
 const avalanche = require("../tokens/avalanche.json");
-const arbitrum = require("../tokens/arbitrum.json");
+//const arbitrum = require("../tokens/arbitrum.json");
 const optimism = require("../tokens/optimism.json");
 
 function sortTokens(tokens) {
@@ -29,7 +29,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/DexKit/assets/main/images/logo_256x256.png",
+      "https://raw.githubusercontent.com/DexKit/assets/main/images/logo.png",
     keywords: ["dexkit", "default"],
     tokens: sortTokens([
       ...ethereum,
@@ -37,7 +37,7 @@ module.exports = function buildList() {
       ...polygon,
       ...bsc,
       ...avalanche,
-      ...arbitrum,
+      //  ...arbitrum,
       ...optimism,
     ]),
   };
